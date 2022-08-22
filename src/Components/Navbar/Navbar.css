@@ -1,9 +1,13 @@
+.abc{
+    width: 100%;
+}
 .navBox{
     display: flex;
     flex-direction: column;
     width: 100%;
     text-align: center;
     margin: auto;
+    position: sticky;
 }
 
 .navBox a{

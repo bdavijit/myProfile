@@ -4,7 +4,7 @@ import "./Navbar.css";
 
 const Navbar = () => {
     return (
-          
+          <section className='abc'>
                 <nav className='navBox'>
                       <NavLink className='NavLink' to='/'>
                             Home
@@ -22,7 +22,7 @@ const Navbar = () => {
                             Contact
                       </NavLink>
                 </nav>
-         
+          </section>
     );
 };
 
