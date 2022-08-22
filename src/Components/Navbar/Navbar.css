@@ -8,6 +8,8 @@
     text-align: center;
     margin: auto;
     position: sticky;
+    top: 0;
+    padding-top: 20px ;
 }
 
 .navBox a{
