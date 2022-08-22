@@ -1,6 +1,9 @@
 *{
     margin: 1vw;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
 }
+
 
 .MainBox{
    
@@ -8,9 +11,12 @@
    grid-template-columns: 25ch auto;
 }
 .MainSubBox{
-   border: 1px solid black;
+   border: 1px solid rgb(255, 82, 52);
    padding: 10px;
    border-radius: 10px;
+}
+.menuBox{
+     display: flex;
 }
 
 @media only screen and (max-width: 768px) {
