@@ -1,0 +1,25 @@
+*{
+    margin: 1vw;
+}
+
+.MainBox{
+   
+   display: grid;
+   grid-template-columns: 25ch auto;
+}
+.MainSubBox{
+   border: 1px solid black;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+.MainBox{
+   
+   display: grid;
+   grid-template-columns: 0ch auto;
+}
+.menuBox{
+     visibility: hidden;
+}
+}
