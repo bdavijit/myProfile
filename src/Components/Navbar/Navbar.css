@@ -1,34 +1,31 @@
-.abc{
-    width: 100%;
+.abc {
+      width: 100%;
 }
-.navBox{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    gap: 1rem;
-    text-align: center;
-    margin: auto;
-    position: sticky;
-    top: 0;
-    padding-top: 70px ;
+.navBox {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      gap: 1rem;
+      text-align: center;
+      margin: auto;
+      position: sticky;
+      top: 0;
+      padding-top: 70px;
 }
 
-.navBox a{
-    text-decoration: none;
-    font-size: x-large;
-    display: flex;
-    justify-content: center;
-    color:  rgb(255, 82, 52);
-  
-    
+.navBox a {
+      text-decoration: none;
+      font-size: x-large;
+      display: flex;
+      justify-content: center;
+      color: rgb(255, 82, 52);
 }
-.navBox a.active{
-    background: linear-gradient(60deg, lightsalmon, rgb(255, 82, 52));
-    
-    color: aliceblue;
-    /* padding-left: 10%;
+.navBox a.active {
+      background: linear-gradient(60deg, lightsalmon, rgb(255, 82, 52));
+
+      color: aliceblue;
+      /* padding-left: 10%;
     padding-right: 10%;*/
-    padding-top: 2%;
-    padding-bottom: 2%; 
-    
+      padding-top: 2%;
+      padding-bottom: 2%;
 }
