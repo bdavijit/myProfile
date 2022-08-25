@@ -1,0 +1,7 @@
+.TopNavbar{
+    background: linear-gradient(60deg,  rgb(19, 19, 19), rgb(172, 106, 81));
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    height: 50px;
+}
