@@ -14,12 +14,12 @@ import './style/style.css';
 function App() {
   return (
         <>
-         <TopNavbar />
+              <TopNavbar />
               <div className='MainBox'>
                     <div className='MainSubBox menuBox'>
                           <Navbar />
                     </div>
-                    <div>
+                    <div className='RouterBox'>
                           <Routes>
                                 <Route path='/' element={<Home />} />
                                 <Route path='/Skills' element={<Skills />} />
