@@ -14,7 +14,7 @@ import './style/style.css';
 function App() {
   return (
         <>
-              <TopNavbar />
+              {/* <TopNavbar /> */}
               <div className='MainBox'>
                     <div className='MainSubBox menuBox'>
                           <Navbar />

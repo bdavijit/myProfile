@@ -11,9 +11,15 @@ const Home = () => {
                             className='responsive'
                       />
                       <div className='HomeSubBox'>
-                            <h3>hgfhfgh</h3>
-                            <h1>hgfhgfh</h1>
-                            <p>hgfhgfhgf</p>
+                            <h3>Avijit Kundu</h3>
+                            <h1>Web Developer</h1>
+                            <p>
+                                  Hello! I am Web Developer from United States,
+                                  New York. I have rich experience in web site
+                                  design and building, also I am good at
+                                  wordpress. I love to talk with you about our
+                                  unique.
+                            </p>
                       </div>
                 </section>
           </>
