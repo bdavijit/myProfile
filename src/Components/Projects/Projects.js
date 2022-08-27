@@ -8,7 +8,7 @@ const Projects = () => {
                 <section className='ProjectsBox'>
                       <section className='ProjectFrame'>
                             <iframe
-                                  src='https://router-firebase-integrat-3357a.web.app/'
+                                  src='https://biostar2-d38fa.web.app/'
                                   title='W3Schools Free Online Web Tutorials'
                                   className='frameSize'
                             ></iframe>
