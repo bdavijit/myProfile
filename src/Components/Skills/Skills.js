@@ -11,7 +11,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -20,7 +20,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -29,7 +29,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -38,7 +38,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -47,7 +47,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -56,7 +56,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -65,7 +65,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -74,7 +74,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -87,7 +87,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -96,7 +96,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -105,7 +105,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -114,7 +114,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -123,7 +123,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -132,7 +132,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -141,7 +141,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -150,7 +150,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -163,7 +163,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -172,7 +172,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -181,7 +181,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -190,7 +190,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -199,7 +199,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -208,7 +208,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -217,7 +217,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -226,7 +226,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -239,7 +239,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -248,7 +248,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -257,7 +257,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -266,7 +266,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -275,7 +275,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -284,7 +284,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -293,7 +293,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
@@ -302,7 +302,7 @@ const Skills = () => {
                                   className='responsive'
                                   src='https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png'
                                   alt=''
-                                  srcset=''
+                                 
                             />
                             <h3 className='text-center'>Html</h3>
                       </section>
