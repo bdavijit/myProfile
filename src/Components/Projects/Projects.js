@@ -5,7 +5,7 @@ const Projects = () => {
     return (
           <>
                 <h1 className='text-center'>Projects</h1>
-                {/* <section className='ProjectsBox'>
+                <section className='ProjectsBox'>
                       <section className='ProjectFrame'>
                             <iframe
                                   src='https://biostar2-d38fa.web.app/'
@@ -63,7 +63,7 @@ const Projects = () => {
                                   </p>
                             </div>
                       </section>
-                </section> */}
+                </section>
           </>
     );
 };
